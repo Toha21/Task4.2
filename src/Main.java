@@ -1,5 +1,5 @@
 public class Main {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         BodyMassIndexService service = new BodyMassIndexService();
 
         double weight = 95;//масса тела
