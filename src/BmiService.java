@@ -1,4 +1,4 @@
-public class BodyMassIndexService {
+public class BmiService {
 
     public double calculate(double weight, double height) {
 
